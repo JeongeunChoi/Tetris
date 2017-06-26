@@ -20,4 +20,4 @@ C++을 이용한 테트리스 게임만들기
 
 실행 화면
 -------------
-![Alt text](D:\git_source\Tetris\img.jpg "tetris")
+![실행 화면](./img.jpg)
